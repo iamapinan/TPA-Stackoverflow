@@ -2,10 +2,7 @@
 The Thailand Stackoverflow platform make for Thai programmer community. We're custom to use as our version by TPA as the first time. We develop and if sometime we meat the better thing in this platform we will PR to the origin.
 
 ## Thank you for
-TPA Stackoverflow is extend version of flarum opensource discussion system.
-Originally by [Flarum](https://flarum.org).
-
-<p align="center"><img src="https://flarum.org/img/logo.png"></p>
+TPA Stackoverflow is extend version of [Flarum](https://flarum.org) opensource discussion system.
 
 ## Installation
 
